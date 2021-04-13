@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/76835313/114562931-ea586600-9ca9-11eb-8105-af390527ab6c.png)
 
 
-# 출력 전압 40V 
+# 출력 전압 +40V 
 ![image](https://user-images.githubusercontent.com/76835313/114562283-52f31300-9ca9-11eb-8579-8855ca010462.png)
 # 출력 전압 +5V
 ![image](https://user-images.githubusercontent.com/76835313/114562327-60a89880-9ca9-11eb-9437-644b84d18a6f.png)
